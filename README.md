@@ -1,3 +1,10 @@
-# TLP006-MAIN-CONTENT
+# TechLatinPublishing/TLP006-MAIN-CONTENT
 
-First version of content
+
+Content for BeutifulHugo theme
+got codesausage site.
+
+
+https://github.com/TechLatinPublishing/zzcodeSaus003-content.git
+
+
